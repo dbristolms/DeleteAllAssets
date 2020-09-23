@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeleteAllAssets", "DeleteAllAssets.csproj", "{2E7E2E8A-BB34-4551-A11D-14227CCC9459}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E7E2E8A-BB34-4551-A11D-14227CCC9459}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E7E2E8A-BB34-4551-A11D-14227CCC9459}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E7E2E8A-BB34-4551-A11D-14227CCC9459}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E7E2E8A-BB34-4551-A11D-14227CCC9459}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6FAE3914-BECB-47FE-A74F-3BB0B0E54D03}
+	EndGlobalSection
+EndGlobal
