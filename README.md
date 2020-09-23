@@ -1,5 +1,5 @@
 # DeleteAllAssets
-**This application generates deletes all assets within a Media Services account and the Storage containers that back those assets.**
+**This application deletes all assets within a Media Services account and the Storage containers that back those assets.**
 
 This application was written in C#.NET.  It uses the Azure Media Services [v3 API](https://docs.microsoft.com/en-us/azure/media-services/latest/media-services-apis-overview).
 
